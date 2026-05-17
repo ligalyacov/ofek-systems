@@ -336,8 +336,17 @@ export default function Home() {
       <section className="finalCta pageSection" id="contact">
         <div className="container finalInner reveal">
           <p className="sectionKicker">מתכננים מערכת חדשה או משדרגים קיימת?</p>
-          <h2>רוצים מערכת שעובדת כמו שצריך מהיום הראשון?</h2>
-          <a href="tel:+972000000000" className="button primary large">
+          <h2>
+            רוצים מערכת שעובדת
+            <br />
+            כמו שצריך מהיום הראשון?
+          </h2>
+          <a
+            href="https://wa.me/972522521715"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="button primary large"
+          >
             דברו איתנו
             <ArrowIcon />
           </a>

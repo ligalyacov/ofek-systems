@@ -162,8 +162,8 @@ export default function Home() {
           <div className="heroCopy reveal d1">
             <p className="eyebrow">מאז 1991</p>
             <h1>
-              <span>טכנולוגיה חכמה.</span>
-              <span>ראש שקט.</span>
+              <span>טכנולוגיה חכמה</span>
+              <span>ראש שקט</span>
             </h1>
             <p className="heroText">
               פתרונות אבטחה ותקשורת מתקדמים לבתים פרטיים, עסקים וחברות — עם
